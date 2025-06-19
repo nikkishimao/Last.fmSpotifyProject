@@ -71,6 +71,8 @@
 <p>By meticulously preprocessing the data, we ensured that our subsequent analyses were accurate, meaningful, and reflective of true listener behavior across platforms.</p>
 
 <h2>Code and Results</h2>
+<p>All of our code and results are linked below to provide clear insight into our process and to show how our findings were derived.</p>
 <ul>
-  <li><a href="prepcode.md">Prep Code</a></li>
+  <li><a href="prepcode.md">Prep Code Breakdown</a></li>
+  <li><a href="LastfmSpotifyProjectFullCode.ipynb">Full Code</a></li>
 </ul>

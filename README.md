@@ -1,7 +1,7 @@
 <h1>Cross Trends: A Last.fm and Spotify Analysis</h1>
 
 <h2>Description</h2>
-</p>This project explores how two leading music platforms, Last.fm and Spotify, correlate and what they reveal about listener behavior. It focuses on three core questions:<p>
+</p>Together with Leonardo Pena Jarmillo and Wan-Hsin Hu, we developed this project to explore the relationship between two leading music platforms, Last.fm and Spotify. We explored how these platforms correlate and what they reveal about listener behavior. It focuses on three core questions:<p>
 
 <ul>
   <li><strong>Genre Popularity Analysis</strong>: By aggregating play counts from Last.fm, we identify the most played genres globally and their respective audience engagement levels. This helps uncover genre trends and preferences across listeners.</li>

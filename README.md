@@ -1,19 +1,19 @@
 <h1>Cross Trends: A Last.fm and Spotify Analysis</h1>
 
-<h2>Description</h2>
-</p>Together with Leonardo Pena Jarmillo and Wan-Hsin Hu, we developed this project to explore the relationship between two leading music platforms, Last.fm and Spotify. We explored how these platforms correlate and what they reveal about listener behavior. It focuses on three core questions:<p>
-
-<ul>
-  <li><strong>Genre Popularity Analysis</strong>: By aggregating play counts from Last.fm, we identify the most played genres globally and their respective audience engagement levels. This helps uncover genre trends and preferences across listeners.</li>
-  <li><strong>Artist Dominance Within Genres</strong>: Using both Last.fm and Spotify data, we determine which artists dominate specific genres in terms of top track counts and popularity. This highlights key contributors to genre popularity.</li>
-  <li><strong>Cross-Platform Metric Relationship</strong>: We analyze the correlation between Spotify's popularity scores and Last.fm's play counts. Through regression analysis and visualizations, we explore whether a track’s Spotify popularity reflects its listener engagement on Last.fm.</li>
-</ul>
-
-<p>By combining data from Last.fm's API for global play counts and Spotify's API for track popularity and availability, we create a unified dataset. This allows for comprehensive visualizations, normalization for cross-platform comparisons, and statistical evaluations. The project offers insights into genre trends, artist impact, and the interconnectedness of user engagement across platforms.</p>
-
 <h2>Background</h2>
 
 <p>As the year comes to an end, Spotify users eagerly await their Spotify Wrapped, a personalized summary of their listening habits, favorite tracks, and most-played artists over the past year. This annual tradition has become a cultural moment, sparking conversations about the music that resonates with people, the genres they gravitate towards, and the songs that defined the past year. Inspired by this excitement, we wanted to explore the underlying factors that contribute to the popularity of songs on Spotify, and how these trends compare to global listening habits tracked by Last.fm. In addition to Spotify’s detailed insights into personal listening data, Last.fm provides a broader, more global view of music consumption through its tracked users' play counts. By combining data from both platforms, we aim to uncover cross-platform trends in music popularity, comparing Spotify’s real-time popularity metrics with Last.fm’s cumulative play counts. Inspired by the Spotify Wrapped season, this project leverages both Spotify and Last.fm data to uncover valuable insights into the evolving landscape of music consumption.</p>
+
+<h2>Description and Goals</h2>
+</p>Together with Leonardo Pena Jarmillo and Wan-Hsin Hu, we developed this project to explore the relationship between two leading music platforms, Last.fm and Spotify. We explored how these platforms correlate and what they reveal about listener behavior. It focuses on <strong>3 Core Questions</strong>:<p>
+
+<ol>
+  <li><strong>Genre Popularity Analysis</strong>: By aggregating play counts from Last.fm, we identify the most played genres globally and their respective audience engagement levels. This helps uncover genre trends and preferences across listeners.</li>
+  <li><strong>Artist Dominance Within Genres</strong>: Using both Last.fm and Spotify data, we determine which artists dominate specific genres in terms of top track counts and popularity. This highlights key contributors to genre popularity.</li>
+  <li><strong>Cross-Platform Metric Relationship</strong>: We analyze the correlation between Spotify's popularity scores and Last.fm's play counts. Through regression analysis and visualizations, we explore whether a track’s Spotify popularity reflects its listener engagement on Last.fm.</li>
+</ol>
+
+<p>By combining data from Last.fm's API for global play counts and Spotify's API for track popularity and availability, we create a unified dataset. This allows for comprehensive visualizations, normalization for cross-platform comparisons, and statistical evaluations. The project offers insights into genre trends, artist impact, and the interconnectedness of user engagement across platforms.</p>
 
 <h2>Data and Sources</h2>
 
